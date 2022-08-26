@@ -1,7 +1,7 @@
 
 # SpikeAlert
 
-Spike is my girlfriend's dog, it loves to eat,
+Spike is my girlfriend's dog, he loves to eat,
  especially on time (at 7pm).
  
 Together we made an automation using life360 API and Selenium library
