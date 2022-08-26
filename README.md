@@ -13,4 +13,4 @@ feel free to use it :)
 
 ### A cute picture of Spike code reviewing to make your day better:
 
-![App Screenshot](/Yardenrsk/SpikeAlert/blob/main/doggo.jpeg?raw=true)
+![App Screenshot](/doggo.jpeg?raw=true)
